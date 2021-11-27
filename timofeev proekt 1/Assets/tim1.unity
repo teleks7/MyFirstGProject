@@ -247,6 +247,7 @@ GameObject:
   - component: {fileID: 223974229}
   - component: {fileID: 223974228}
   - component: {fileID: 223974227}
+  - component: {fileID: 223974231}
   m_Layer: 0
   m_Name: Cube (5)
   m_TagString: Untagged
@@ -330,6 +331,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &223974231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 223974226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66cd29a0d90ed24cb1d1bb117faeb52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &358694976
 GameObject:
   m_ObjectHideFlags: 0
@@ -531,8 +544,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 424902686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.314, y: 10.819, z: -21.147}
-  m_LocalScale: {x: 4.847738, y: 0.9872417, z: 1}
+  m_LocalPosition: {x: 4.314, y: 10.819, z: -21.0939}
+  m_LocalScale: {x: 4.847738, y: 0.9872417, z: 1.1062}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
@@ -1469,8 +1482,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2049694315}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.1995, y: 7.3316, z: -21.147}
-  m_LocalScale: {x: 1.0934724, y: 7.9616265, z: 1}
+  m_LocalPosition: {x: 6.2226, y: 7.4227, z: -21.0932}
+  m_LocalScale: {x: 1.1394969, y: 7.7793055, z: 1.1075714}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
@@ -1564,8 +1577,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077161237}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.44, y: 7.2398, z: -21.147}
-  m_LocalScale: {x: 1.0934724, y: 7.7389193, z: 1}
+  m_LocalPosition: {x: 2.44, y: 7.3251, z: -21.0927}
+  m_LocalScale: {x: 1.0934724, y: 7.568663, z: 1.1086515}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
